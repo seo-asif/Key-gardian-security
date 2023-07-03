@@ -1,5 +1,3 @@
-Sure! Here's a custom README file for your KeyGuardian authentication project:
-
 # KeyGuardian
 
 KeyGuardian is an advanced authentication system designed to provide secure and reliable access control for your applications. It offers a robust and flexible solution for safeguarding your digital assets by employing cutting-edge encryption and authentication techniques.
